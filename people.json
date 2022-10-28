@@ -1,0 +1,15 @@
+{
+  "people": {
+    "Garnette": {
+      "role": "Ramp Agent",
+      "status": "POA",
+      "works_best_togeater": [],
+      "start_time": null,
+      "end_time": null,
+      "days_off": []
+    },
+    "David. B": {
+      "role": "Ramp"
+    }
+  }
+}
